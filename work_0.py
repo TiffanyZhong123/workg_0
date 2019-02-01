@@ -1,5 +1,5 @@
 pic = open('pic.ppm','w')
-pic.write('P3 500 500 255 \n')
+pic.write('P3\n500 500\n255\n')
 red = 0
 green = 0
 blue = 255
